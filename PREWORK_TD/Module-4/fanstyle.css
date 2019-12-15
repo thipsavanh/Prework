@@ -1,0 +1,5 @@
+body {background-color: teal}
+h1 {text-align: center; font-weight: 700; color: darkgoldenrod}
+h2, h3 {color: gold; font-decoration: underline}
+.italics {font-style: italic}
+p {font-family: Georgia}
